@@ -4,8 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>ibukunmairead's eskillsgame</name>
-
+	<name>eimearcoramrmorgans eskillsgame</name>
+<description> this skills game was developed by Eimear Cora and mrmorgan for ITgirls2014</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
